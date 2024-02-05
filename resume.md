@@ -1,23 +1,42 @@
-#Cameron J Oaks 
-===== 
+Cameron J Oaks 
+====
+Environmental Geology 
+
 oakcjs@appstate.edu
 
-##Summary 
-Enviromental Geology major with GIS experince 
+February 7, 2024 
 
-##Education 
-
+Education 
+------------
 Associates in Science, 2021
+
 Carteret Community College
+
 Morehead City, NC, USA
 
-Enviromental Geology, 2024
-Appalachain State University 
+-------
+
+Environmental Geology, 2024
+
+Appalachian State University 
+
 Boone, NC, USA 
 
-##Work_Experience
-Landscaping crew leader 
-Doordash 
+Coursework
+----
+- Intro to Physical Geology
+- Geology Field Methods
+- Environmental Science Field Methods
+- Sedimentology and Stratigraphy
+- Engineering Geology
+- Hydrogeology
+- Intro to Geophysics
+- Environmental Geology 
 
+Work Experience
+----
+Landscaper
+
+Working at this job I have a variety of different tasks to complete. I often ran a company truck and operated, lawnmowers, weed eaters, edgers, hedgers, chainsaws, brush hogs, and tractors. Going to different jobs, most being regular maintenance and others requiring brush clearing or bed installations. Other aspects of the job include customer relations and equipment maintenance.	
 
 
