@@ -10,7 +10,7 @@ Education
 ------------
 Associates in Science, 2021
 
-Carteret Community College
+[Carteret Community College](https://carteret.edu/)
 
 Morehead City, NC, USA
 
@@ -18,9 +18,11 @@ Morehead City, NC, USA
 
 Environmental Geology, 2024
 
-Appalachian State University 
+[Appalachian State University](https://www.appstate.edu/)
 
 Boone, NC, USA 
+
+
 
 Coursework
 ----
